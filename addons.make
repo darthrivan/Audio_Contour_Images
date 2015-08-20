@@ -1,0 +1,5 @@
+ofx3DModelLoader
+ofxOpenCv
+ofxThreadedImageLoader
+ofxVectorGraphics
+ofxFFT
